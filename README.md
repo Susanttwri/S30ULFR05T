@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Suraj Kumar (S30ULFR05T).</h1>
-<h3 align="center">Frontend Developer | UI/UX Designer</h3>
+<h1 align="center">Hi 👋, I'm Susant kumar tiwari (susanttwri).</h1>
+<h3 align="center">Fullstack Developer | UI/UX Designer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Designing+with+purpose+🎨;Developing+with+precision+💻;Delivering+impact+🚀" alt="Typing SVG" />
@@ -11,8 +11,9 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **playwright project**
-- 🌱 I’m learning more about **Frontend Development** using AngularJS and ReactJS.
-- 💬 Ask me about **Angular, React, UI/UX, PrimeNG, and advanced form handling**
+- 🌱 I’m learning more about **Frontend Development** using ReactJS.
+- 🌱 I’m learning more about **Backend Development** using next.Js, Express.js.
+- 💬 Ask me about **React, UI/UX, PrimeNG, and advanced form handling**
 - ⚡ Fun fact: I name my projects like secret ops 😉
 
 ---
@@ -49,7 +50,7 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=S30ULFR05T&theme=tokyo-night" alt="activity graph"/> -->
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=susanttwri&theme=tokyo-night" alt="activity graph"/> -->
 </p>
 
 ---
